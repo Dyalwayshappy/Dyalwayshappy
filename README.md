@@ -31,6 +31,8 @@
 I’m a **00后 Independent Developer** and the founder of **Spice**. My journey in AI started in 2017—the dawn of the Transformer era. After 9 years of exploring NLP, AI research, and building various agentic tools, I’ve shifted my focus to the **"Decision Layer"** of Intelligence. 
 World model enthusiast, aiming to do something amazing: hoping that in the future everyone will have an AI brain.
 
+I’m currently heads-down building Spice, redefining the 'Brain Above Agent' as a personalized decision-engine for everyone. I’m here to learn, to push boundaries, and to build the future of autonomous entities. If this clicks with you, a ⭐️ is the best way to support the journey. If you’ve got questions or want to build something amazing together, hit me up below! 👇
+
 Follow me on： 
 <a href="https://github.com/Dyalwayshappy/Spice" target="_blank"><img src="https://img.shields.io/badge/Spice%20Repo-FF4500?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://linux.do/u/jiaa/summary" target="_blank"><img src="https://img.shields.io/badge/Linux.do-000000?style=for-the-badge&logo=linux&logoColor=white" /></a>
