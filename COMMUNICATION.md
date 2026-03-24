@@ -1,6 +1,4 @@
-# 📱 Join Our Community
-
-## WeChat
+# WeChat
 
 <p align="center">
   <img src="./Wechat.PNG" width="250"/>
